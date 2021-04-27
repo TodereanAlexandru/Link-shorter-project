@@ -1,5 +1,5 @@
 
-# Link-shorter-project
+# Link-shorter-website
 In this project, you'll learn how to build a website that shortens URLs. Optimizing the length of your website's URLs is useful on space-sensitive forums, helps websites rank better in search results, and are also easier for users to type out.
  --bit.ly API documentation 
  Bitly is the most widely trusted link management platform in the world. By using the Bitly API, you will exercise the full power of your links through automated link customization, mobile deep linking, and click analytics.
